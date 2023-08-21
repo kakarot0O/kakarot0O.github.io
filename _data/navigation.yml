@@ -11,12 +11,8 @@ main:
     
   - title: "CV"
     url: /files/Resume_kush.pdf  
-      
+
   - title: "CHECK THIS OUT !!!"
     url: /extra/
     
-  - #title: "CV"
-    #url: /cv/
-    
-  - #title: "Guide"
-    #url: /markdown/
+  
