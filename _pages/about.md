@@ -9,10 +9,7 @@ redirect_from:
 ---
 ## 👋 Hello there, I'm Kush!
 
--> 2+ years of experience in Application Security, Product Security, Security Engineering and Red Teaming.
--> Cybersecurity Engineering Graduate Student at Northeastern University, Boston.
--> My coursework and hands-on experience have equipped me with the technical knowledge and practical skills to effectively safeguard    against threats and mitigate risks in today's rapidly evolving cybersecurity landscape.
-
+2+ years of experience in Application Security, Product Security, Security Engineering and Red Teaming. Cybersecurity Engineering Graduate Student at Northeastern University, Boston. 
 
 I am actively looking for full-time opportunities with availability starting Spring 2024.
 
