@@ -12,12 +12,9 @@ As a cybersecurity graduate student at Northeastern University, I have developed
 
 I am actively looking for full-time opportunities with availability starting Spring 2024.
 
-### Skills/Interests: <pre style="background-color: #f4f4f4; padding: 10px;">
-<code>
-def hello_world():
-    print("Security Engineering, Web Application Security, Security Automation, Red Teaming")
-</code>
-</pre>
+### Skills/Interests: 
+<code> Security Engineering, Web Application Security, Security Automation, Red Teaming </code>
+
 
 ### Programming Languages: Python, Bash, C/C++, Javascript, Powershell, Rust
 ### Environment and Tools: AWS, Terraform, Selenium, OWASP ZAP, OWASP Amass, Burpsuite, Wireshark, NMAP, Docker, Metasploit, Autopsy
