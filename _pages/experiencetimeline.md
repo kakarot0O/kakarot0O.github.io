@@ -10,7 +10,8 @@ author_profile: true
     - Quickly and efficiently responded to zero-day vulnerabilities, reducing downtime by 70% and minimizing the impact on critical systems through effective risk management, remediation and mitigation strategies.
     - Collaborated with cross-functional teams to identify and document 100+ critical security vulnerabilities misconfigurations, and weaknesses, resulting in 30% reduction of potential cyber threats and attacks.
 
-- ### Teaching Assistant: Northeastern University | Systems Security (CY 3740)      <code><span style="background-color: #f0f0f0; padding: 3px 3px; border-radius: 3px; font-weight: bold; color: #555;">01/2023 - 04/2023</span></code>
+- ### Teaching Assistant: Northeastern University      <code><span style="background-color: #f0f0f0; padding: 3px 3px; border-radius: 3px; font-weight: bold; color: #555;">01/2023 - 04/2023</span></code>
+ - Systems Security (CY 3740) By professor <code><a href="https://www.onarlioglu.com/">Kaan Onarlioglu</a></code>
     - Mentored and guided students to enhance understanding of application of practical security concepts, including vulnerability analysis and mitigation, secure coding practices, and penetration testing.
     - Conducted regular office hours and helped students individually with course projects and examinations.
 
