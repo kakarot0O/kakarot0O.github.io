@@ -13,8 +13,8 @@ redirect_from:
 
 I am actively looking for full-time opportunities with availability starting Spring 2024.
 
-### Skills/Interests:
-<code>Security Engineering</code>, <code>Infrastructure Security</code>, <code>Web Application Security</code>, <code>Security Automation</code>, <code>Red Teaming</code>
+### Skills/Interests:<code class="language-plaintext highlighter-rouge">Security Engineering</code>
+<code class="language-plaintext highlighter-rouge">Security Engineering</code>, <code>Infrastructure Security</code>, <code>Web Application Security</code>, <code>Security Automation</code>, <code>Red Teaming</code>
 
 ### Programming Languages: 
 <code>Python</code>, <code>Bash</code>, <code>C/C++</code>, <code>Javascript</code>, <code>Powershell</code>, <code>Rust</code>
