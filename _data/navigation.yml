@@ -1,22 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Work Experience"
+    url: /workexperience/
   - title: "CV"
-    url: /cv/
+    url: /files/Resume_kush.pdf    
+  - title: "Projects"
+    url: /projects/    
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Achievements"
+    url: /achievements/
+        
+  - title: "CHECK THIS OUT !!!"
+    url: /extra/
+    
+  - #title: "CV"
+    #url: /cv/
+    
+  - #title: "Guide"
+    #url: /markdown/
