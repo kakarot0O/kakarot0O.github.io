@@ -5,7 +5,6 @@ permalink: /experiencetimeline/
 author_profile: true
 ---
 
-- ## Test <code class="language-plaintext highlighter-rouge">(09/2022 – 12/2022)</code>
 - ### Cybersecurity Co-op: Mersana Therapeutics     <code><span style="background-color: #f0f0f0; padding: 3px 3px; border-radius: 3px; font-weight: bold; color: #555;"> 07/2023 - Present</span></code>
     - Reduced manual effort by 90% on MFA Okta Policy auditing through orchestrating complete process using Python Selenium and headless Chrome for generating CSV reports via DOM manipulation.
     - Quickly and efficiently responded to zero-day vulnerabilities, reducing downtime by 70% and minimizing the impact on critical systems through effective risk management, remediation and mitigation strategies.
@@ -26,6 +25,6 @@ author_profile: true
     - Strategically crafted and executed 4 targeted security campaigns, effectively addressing identified vulnerabilities, reducing the risk of compromise to large systems and customer data by over 40%.
 
 - ### Security Analyst Intern: Tainwala Personal Care Products      <code><span style="background-color: #f0f0f0; padding: 3px 3px; border-radius: 3px; font-weight: bold; color: #555;">02/2020 - 04/2020</span></code>
-    - Created & implemented phishing awareness training program and education on security best practices reaching over 1000+ employees resulting in reducing the click through rate on malicious content by 75%.
+    - Created & implemented phishing awareness training program and education on security best practices reaching over 100+ employees resulting in reducing the click through rate on malicious content by 75%.
     - Maintained consistency of controlling access by instituting 20+ policies to protect user data with 99% accountability resulting in protection of critical assets and reduction in risk exposure by 50%.
     - Conducted comprehensive network traffic analysis using Wireshark, resulting in a significant reduction of 50% in malicious activity and breaches through effective identification and mitigation of security threats.
