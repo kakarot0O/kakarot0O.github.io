@@ -8,7 +8,7 @@
 locale                   : "en-US"
 title                    : "Kush's Homepage"
 title_separator          : "-"
-name                     : &name "Kush Pandya"
+name                     : &name "Kush Pandya \n\n"
 description              : &description "personal description"
 url                      : https://kakarot0O.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -8,8 +8,18 @@ redirect_from:
   - /about.html
 ---
 As a cybersecurity graduate student at Northeastern University, I have developed expertise in a range of areas, including network security, infrastructure security, vulnerability assessment and management, web application security, and security engineering. My coursework and hands-on experience have equipped me with the technical knowledge and practical skills to effectively safeguard against threats and mitigate risks in today's rapidly evolving cybersecurity landscape. Whether working independently or as part of a team, I am committed to applying my knowledge and skills to ensure the confidentiality, integrity, and availability of sensitive information and critical systems.
+
+
 I am actively looking for full-time opportunities with availability starting Spring 2024.
-#### Skills/Interests: Security Engineering, Web Application Security, Security Automation, Red Teaming
-#### Programming Languages: Python, Bash, C/C++, Javascript, Powershell, Rust
-#### Environment and Tools: AWS, Terraform, Selenium, OWASP ZAP, OWASP Amass, Burpsuite, Wireshark, NMAP, Docker, Metasploit, Autopsy
+
+### Skills/Interests: <pre style="background-color: #f4f4f4; padding: 10px;">
+<code>
+def hello_world():
+    print("Security Engineering, Web Application Security, Security Automation, Red Teaming")
+</code>
+</pre>
+
+### Programming Languages: Python, Bash, C/C++, Javascript, Powershell, Rust
+### Environment and Tools: AWS, Terraform, Selenium, OWASP ZAP, OWASP Amass, Burpsuite, Wireshark, NMAP, Docker, Metasploit, Autopsy
+
 *In a digital dance of ones and zeros, I waltz with security !*
