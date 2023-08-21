@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Kush!"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## 👋 Hello there, I'm Kush!
 
-As a cybersecurity graduate student at Northeastern University, I have developed expertise in a range of areas, including network security, infrastructure security, vulnerability assessment and management, web application security, and security engineering. My coursework and hands-on experience have equipped me with the technical knowledge and practical skills to effectively safeguard against threats and mitigate risks in today's rapidly evolving cybersecurity landscape. Whether working independently or as part of a team, I am committed to applying my knowledge and skills to ensure the confidentiality, integrity, and availability of sensitive information and critical systems.
+-> 2+ years of experience in Application Security, Product Security, Security Engineering and Red Teaming.
+-> Cybersecurity Engineering Graduate Student at Northeastern University, Boston.
+-> My coursework and hands-on experience have equipped me with the technical knowledge and practical skills to effectively safeguard    against threats and mitigate risks in today's rapidly evolving cybersecurity landscape.
 
 
 I am actively looking for full-time opportunities with availability starting Spring 2024.
