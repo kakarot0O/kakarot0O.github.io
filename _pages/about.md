@@ -12,8 +12,7 @@ As a cybersecurity graduate student at Northeastern University, I have developed
 
 I am actively looking for full-time opportunities with availability starting Spring 2024.
 
-### Skills/Interests: 
-<code> Security Engineering, Web Application Security, Security Automation, Red Teaming </code>
+### Skills/Interests: <code>Security Engineering</code>, 
 
 
 ### Programming Languages: Python, Bash, C/C++, Javascript, Powershell, Rust
