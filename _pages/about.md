@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 👋 Hello there, I'm Kush!
+## 👋 Hello there, I'm Kush! 
 
 2+ years of experience in Application Security, Product Security, Security Engineering and Red Teaming. Cybersecurity Engineering Graduate Student at Northeastern University, Boston. 
 
 I am actively looking for full-time opportunities with availability starting Spring 2024.
 
-### Skills/Interests:<code class="language-plaintext highlighter-rouge">Security Engineering</code>
-<code class="language-plaintext highlighter-rouge">Security Engineering</code>, <code>Infrastructure Security</code>, <code>Web Application Security</code>, <code>Security Automation</code>, <code>Red Teaming</code>
+### Skills/Interests: 
+<code>Security Engineering</code>, <code>Infrastructure Security</code>, <code>Web Application Security</code>, <code>Security Automation</code>, <code>Red Teaming</code>
 
 ### Programming Languages: 
 <code>Python</code>, <code>Bash</code>, <code>C/C++</code>, <code>Javascript</code>, <code>Powershell</code>, <code>Rust</code>
