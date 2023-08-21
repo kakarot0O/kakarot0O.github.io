@@ -2,14 +2,16 @@
 main:
   - title: "Experience Timeline"
     url: /experiencetimeline/
-  - title: "CV"
-    url: /files/Resume_kush.pdf    
+  
   - title: "Projects"
     url: /projects/    
     
   - title: "Achievements"
     url: /achievements/
-        
+    
+  - title: "CV"
+    url: /files/Resume_kush.pdf  
+      
   - title: "CHECK THIS OUT !!!"
     url: /extra/
     
