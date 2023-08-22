@@ -12,9 +12,9 @@ author_profile: true
 
 - **Teaching Assistant: Northeastern University**   `01/2023 - 04/2023` 
     
-    *Systems Security (CY 3740) By professor <code><a href="https://www.onarlioglu.com/">Kaan Onarlioglu</a></code>*
-    - Mentored and guided students to enhance understanding of application of practical security concepts, including vulnerability analysis and mitigation, secure coding practices, and penetration testing.
-    - Conducted regular office hours and helped students individually with course projects and examinations.
+*Systems Security (CY 3740) By professor <code><a href="https://www.onarlioglu.com/">Kaan Onarlioglu</a></code>*
+- Mentored and guided students to enhance understanding of application of practical security concepts, including vulnerability analysis and mitigation, secure coding practices, and penetration testing.
+- Conducted regular office hours and helped students individually with course projects and examinations.
 
 - **Security Engineer: Cybermatricks**      `10/2020 - 11/2021`
     - Evaluated 200+ bug bounty reports for Fiscal Year'21 and proposed solution for overall reduction in cost and vulnerabilties.
