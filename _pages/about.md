@@ -20,6 +20,6 @@ I am actively looking for full-time opportunities with availability starting Spr
 <code>Python</code>, <code>Bash</code>, <code>C/C++</code>, <code>Javascript</code>, <code>Powershell</code>, <code>Rust</code>
 
 ### Environment and Tools: 
-<code>AWS</code>, <code>Terraform</code>, <code>Selenium</code>, <code>OWASP ZAP</code>, <code>OWASP Amass</code>, <code>Burpsuite</code>, <code>Wireshark</code>, <code>NMAP</code>, <code>Docker</code>, <code>Metasploit</code>, <code>Autopsy</code>
+<code>AWS</code>, <code>Terraform</code>, <code>Selenium</code>, <code>OWASP ZAP</code>, <code>OWASP Amass</code>, <code>Burpsuite</code>, <code>Qualys</code>, <code>Wireshark</code>, <code>NMAP</code>, <code>Docker</code>, <code>Metasploit</code>, <code>Autopsy</code>
 
 *In a digital dance of ones and zeros, I waltz with security !*
