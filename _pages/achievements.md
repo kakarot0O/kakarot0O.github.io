@@ -7,7 +7,7 @@ author_profile: true
 - ### Capture The Flag Competitions
     - Ranked 144 in the PicoCTF 2021 (May 2021)
     - 3rd position in the SMC Attack Defense CTF organised by Surat Cyber Cell (May 2020)
-    - Finalist in TetCTF CTF 2020 (Jan 2020)
+    - Finalist in TetCTF 2020 (Jan 2020)
     - 1st position: RoarCTF (Oct 2019)
     - Odyssey CTF #4 (Sept 2019)
     
