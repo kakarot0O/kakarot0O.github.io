@@ -16,7 +16,7 @@ author_profile: true
     - Conducted regular office hours and helped students individually with course projects and examinations.
 
 - ### Security Engineer: Cybermatricks      <code><span style="background-color: #f0f0f0; padding: 3px 3px; border-radius: 3px; font-weight: bold; color: #555;">10/2020 - 11/2021</span></code>
-    - Evaluated 200+ bug bounty reports for Fiscal Year'21 and proposed solution for overall reduction in cost and vulenrabilties.
+    - Evaluated 200+ bug bounty reports for Fiscal Year'21 and proposed solution for overall reduction in cost and vulnerabilties.
     - Led 6 Red Teaming & 9 VAPT assessments for many Fortune 500 companies to ensure compliance with industry standards and guidelines; reported findings to management which resulted in 25% cost savings.
     - Developed a highly scalable and automated Dynamic Application Security Testing (DAST) solution for various clients to detect vulnerabilities in web applications using AWS Micro-service architecture.
 
