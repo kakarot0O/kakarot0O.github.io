@@ -13,13 +13,11 @@ redirect_from:
 
 I am actively looking for full-time opportunities with availability starting Spring 2024.
 
-*** Skills/Interests ***: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`
-<code>Security Engineering</code>, <code>Infrastructure Security</code>, <code>Web Application Security</code>, <code>Security Automation</code>, <code>Red Teaming</code>
+**Skills/Interests**: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`
 
-### Programming Languages: 
-<code>Python</code>, <code>Bash</code>, <code>C/C++</code>, <code>Javascript</code>, <code>Powershell</code>, <code>Rust</code>
+**Programming Languages**: `Python`, `Bash`, `C/C++`, `Javascript`, `Powershell`, `Rust`
 
-### Environment and Tools: 
-<code>AWS</code>, <code>Terraform</code>, <code>Selenium</code>, <code>OWASP ZAP</code>, <code>OWASP Amass</code>, <code>Burpsuite</code>, <code>Qualys</code>, <code>Wireshark</code>, <code>NMAP</code>, <code>Docker</code>, <code>Metasploit</code>, <code>Autopsy</code>
+**Environment and Tools**: `AWS`, `Terraform`, `Selenium`, `OWASP ZAP`, `OWASP Amass`, `Burpsuite`, `Qualys`, `Wireshark`, `NMAP`, `Docker`, `Metasploit`, `Autopsy`
+ 
 
 *In a digital dance of ones and zeros, I waltz with security !*
