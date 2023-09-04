@@ -26,4 +26,4 @@ author_profile: true
     - Engineered and deployed over 8 python scripts to automate network analysis to detect malicious traffic and isolate infected systems from the main network infrastructure, thereby increasing security posture.
 
 
-
+    *For more scripts checkout my <a href = https://github.com/kakarot0O?tab=repositories"> Github Page </a>*
