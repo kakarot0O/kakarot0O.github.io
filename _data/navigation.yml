@@ -3,8 +3,8 @@ main:
   - title: "Experience Timeline"
     url: /experiencetimeline/
   
-  - title: "Projects"
-    url: /projects/    
+ # - title: "Projects"
+  #  url: /projects/    
     
   - title: "Achievements"
     url: /achievements/
