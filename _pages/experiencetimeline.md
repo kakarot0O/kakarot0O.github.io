@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **Cybersecurity Co-op: Mersana Therapeutics**     `07/2023 - Present`
-    - Identified and mitigated 10+ critical vulnerabilities within the company’s network infrastructure, and prevented potential security breaches by implementing Data loss prevention and Data Exfiltration policies 
+    - Identified and mitigated 100+ critical vulnerabilities within the company’s network infrastructure, and prevented potential security breaches by implementing Data loss prevention and Data Exfiltration policies 
     - Executed regular scans and assessments of the organization's systems, by leveraging Arctic Wolf, resulting in decrease of security incidents through proactive identification and mitigation of potential risks
     - Collaborated with cross-functional teams to develop and initiate a comprehensive cybersecurity awareness training program, leading to 12% increase in employee adherence to security policies
 
