@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 - **Cybersecurity Co-op: Mersana Therapeutics**     `07/2023 - Present`
-    - Reduced manual effort by 90% on MFA Okta Policy auditing through orchestrating complete process using Python Selenium and headless Chrome for generating CSV reports via DOM manipulation.
-    - Quickly and efficiently responded to zero-day vulnerabilities, reducing downtime by 23% and minimizing the impact on critical systems through effective risk management, remediation and mitigation strategies.
-    - Collaborated with cross-functional teams to identify and document 10+ critical security vulnerabilities misconfigurations, and weaknesses, resulting in 30% reduction of potential cyber threats and attacks.
+    - Identified and mitigated 10+ critical vulnerabilities within the company’s network infrastructure, and prevented potential security breaches by implementing Data loss prevention and Data Exfiltration policies 
+    - Executed regular scans and assessments of the organization's systems, by leveraging Arctic Wolf, resulting in decrease of security incidents through proactive identification and mitigation of potential risks
+    - Collaborated with cross-functional teams to develop and initiate a comprehensive cybersecurity awareness training program, leading to 12% increase in employee adherence to security policies
 
 - **Teaching Assistant: Northeastern University** [*Systems Security (CY 3740) By professor <code><a href="https://www.onarlioglu.com/">Kaan Onarlioglu</a></code>*]     `01/2023 - 04/2023`   
     - Mentored and guided students to enhance understanding of application of practical security concepts, including vulnerability analysis and mitigation, secure coding practices, and penetration testing.
