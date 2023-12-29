@@ -5,7 +5,7 @@ permalink: /experiencetimeline/
 author_profile: true
 ---
 
-<!-- - **Cybersecurity Co-op: Mersana Therapeutics**     `07/2023 - Present`
+- **Cybersecurity Co-op: Mersana Therapeutics**     `07/2023 - Present`
     - Identified and mitigated 100+ critical vulnerabilities within the company’s network infrastructure, and prevented potential security breaches by implementing Data loss prevention and Data Exfiltration policies 
     - Executed regular scans and assessments of the organization's systems, by leveraging Arctic Wolf, resulting in decrease of security incidents through proactive identification and mitigation of potential risks
     - Collaborated with cross-functional teams to develop and initiate a comprehensive cybersecurity awareness training program, leading to 12% increase in employee adherence to security policies
@@ -27,25 +27,4 @@ author_profile: true
 - **Security Analyst Intern: Tainwala Personal Care Products**      `02/2020 - 04/2020`
     - Created & implemented phishing awareness training program and education on security best practices reaching over 100+ employees resulting in reducing the click through rate on malicious content by 27%.
     - Maintained consistency of controlling access by instituting 20+ policies to protect user data with 99% accountability resulting in protection of critical assets and reduction in risk exposure by 15%.
-    - Conducted comprehensive network traffic analysis using Wireshark, resulting in a significant reduction of 25% in malicious activity and breaches through effective identification and mitigation of security threats. -->
-<div onclick="toggleDetails('mersanaTherapeutics')">▶ Cybersecurity Co-op: Mersana Therapeutics (07/2023 - Present)</div>
-  <div id="mersanaTherapeutics-details" style="display: none;">
-    - <p>&#8226; Identified and mitigated 100+ critical vulnerabilities within the company’s network infrastructure...</p>
-    - <p>&#8226; Executed regular scans and assessments of the organization's systems, resulting in a decrease in security incidents...</p>
-    - <p>&#8226; Collaborated with cross-functional teams to develop and initiate a comprehensive cybersecurity awareness training program...</p>
-  </div>
-
-- <div onclick="toggleDetails('northeasternUniversity')">▶ Teaching Assistant: Northeastern University (01/2023 - 04/2023)</div>
-  <div id="northeasternUniversity-details" style="display: none;">
-    - <p>&#8226; Mentored and guided students to enhance understanding of application of practical security concepts...</p>
-    - <p>&#8226; Conducted regular office hours and helped students individually with course projects and examinations...</p>
-  </div>
-
-<!-- Repeat the structure for other experiences -->
-
-<script>
-  function toggleDetails(sectionId) {
-    var details = document.getElementById(sectionId + '-details');
-    details.style.display = details.style.display === 'none' ? 'block' : 'none';
-  }
-</script>
+    - Conducted comprehensive network traffic analysis using Wireshark, resulting in a significant reduction of 25% in malicious activity and breaches through effective identification and mitigation of security threats.
